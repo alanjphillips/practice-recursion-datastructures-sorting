@@ -1,5 +1,6 @@
 package binarytree
 
+// Taken from Github user: schmmd
 
 trait Tree[+T]
 
